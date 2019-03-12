@@ -298,3 +298,8 @@ p:hover {
 .carousel-control-next {
 	width: 5%;
 }
+input[type="date"]:before {
+	content: 'Date of Birth';
+	color: rgb(136, 128, 128);
+	margin-right: 0.5em;
+}
